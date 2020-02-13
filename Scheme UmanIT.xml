@@ -236,7 +236,9 @@
   </PHPCodeStyleSettings>
   <PostgresCodeStyleSettings version="1">
     <option name="myVersion" value="1" />
+    <option name="USE_GENERIC_STYLE" value="true" />
     <option name="ALIAS_CASE" value="4" />
+    <option name="KEYWORD_CASE" value="0" />
     <option name="TYPE_CASE" value="3" />
     <option name="SET_EL_WRAP" value="0" />
     <option name="SET_EL_COMMA" value="0" />
@@ -294,7 +296,13 @@
   <SqlCodeStyleSettings version="1">
     <option name="myVersion" value="1" />
     <option name="ALIAS_CASE" value="4" />
+    <option name="KEYWORD_CASE" value="0" />
     <option name="TYPE_CASE" value="3" />
+    <option name="SUBQUERY_CONTENT" value="2" />
+    <option name="SUBQUERY_CLOSING" value="2" />
+    <option name="INSERT_INTO_NL" value="2" />
+    <option name="INSERT_TABLE_EL_LINE" value="1" />
+    <option name="INSERT_VALUES_EL_LINE" value="1" />
     <option name="SET_EL_WRAP" value="0" />
     <option name="SET_EL_COMMA" value="0" />
     <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
@@ -302,9 +310,12 @@
     <option name="WITH_EL_COMMA" value="0" />
     <option name="SELECT_EL_WRAP" value="3" />
     <option name="SELECT_ALIGN_AS" value="false" />
+    <option name="FROM_EL_LINE" value="1" />
     <option name="FROM_EL_WRAP" value="0" />
     <option name="FROM_INDENT_JOIN" value="false" />
-    <option name="WHERE_EL_WRAP" value="0" />
+    <option name="FROM_ONLY_JOIN_INDENT" value="2" />
+    <option name="WHERE_EL_LINE" value="1" />
+    <option name="WHERE_EL_WRAP" value="3" />
     <option name="WHERE_EL_BOUND" value="2" />
     <option name="ORDER_EL_WRAP" value="0" />
     <option name="TABLE_OPENING" value="1" />
@@ -316,6 +327,9 @@
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
     <option name="EXPR_CASE_WHEN_WRAP" value="false" />
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
+    <option name="EXPR_CASE_THEN_ALIGN" value="true" />
+    <option name="EXPR_CASE_END" value="1" />
+    <option name="EXPR_CASE_COLLAPSE" value="false" />
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
     <option name="SUBQUERY_L_PAR_NL_INSIDE" value="true" />
     <option name="SUBQUERY_R_PAR_NL_INSIDE" value="true" />
