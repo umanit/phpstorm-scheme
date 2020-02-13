@@ -20,11 +20,11 @@ Les différents fichiers posent les règles par défaut de l'IDE, mais elles peu
 
 ## Mise en place
 1. Le fichier `Scheme UmanIT.xml` s'importe dans **Settings -> Editor -> Code Style**
-    * En haut de la fenêtre, cliquer sur la roue dentées à droite
+    * En haut de la fenêtre, cliquer sur le bouton de menu à droite de la liste déroulante
     * Sélectionner **Import Scheme** tout en bas
     * Choisir **IntelliJ IDEA code style XML**
     * Sélectionner le fichier **Scheme UmanIT.xml**
 1. Le fichier `Profile UmanIT.xml` s'importe dans **Settigns -> Editor -> Inspection**
-    * En haut de la fenêtre, cliquer sur la roue dentées à droite
+    * En haut de la fenêtre, cliquer sur le bouton de menu à droite de la liste déroulante
     * Sélectionner **Import Profile...** tout en bas
     * Sélectionner le fichier **Profile UmanIT.xml**
