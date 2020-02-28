@@ -3,6 +3,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2020-02-28
+### Added
+- Autorise le caractère $ en début de nom d'arguments JS
+
+### Fixed
+- Correction des restrictions de longueur pour le JS
+
 ## 2020-02-20
 ### Fixed
 - Correction des restrictions de longueur pour le JS

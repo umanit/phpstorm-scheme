@@ -73,22 +73,22 @@
   <inspection_tool class="FunctionNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_regex" value="[a-z][A-Za-z]*" />
     <option name="m_minLength" value="0" />
-    <option name="m_maxLength" value="0" />
+    <option name="m_maxLength" value="999" />
   </inspection_tool>
   <inspection_tool class="IncrementDecrementResultUsedJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JSClassNamingConvention" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_minLength" value="0" />
-    <option name="m_maxLength" value="0" />
+    <option name="m_maxLength" value="999" />
   </inspection_tool>
   <inspection_tool class="LocalVariableNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_regex" value="[a-z][A-Za-z]*" />
+    <option name="m_regex" value="\$?[a-z][A-Za-z]*" />
     <option name="m_minLength" value="0" />
-    <option name="m_maxLength" value="0" />
+    <option name="m_maxLength" value="999" />
   </inspection_tool>
   <inspection_tool class="ParameterNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_regex" value="[a-z][A-Za-z]*" />
     <option name="m_minLength" value="0" />
-    <option name="m_maxLength" value="0" />
+    <option name="m_maxLength" value="999" />
   </inspection_tool>
   <inspection_tool class="PhpCSValidationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
     <option name="EXTENSIONS" value="php,js,css,inc" />
