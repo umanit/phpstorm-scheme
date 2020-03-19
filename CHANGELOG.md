@@ -3,6 +3,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2020-03-19
+### Added
+- Autorise le caractère $ en début de nom de paramètre et variable en JS
+- Autorise les chiffres dans les règles de nommage en JS
+
 ## 2020-02-28
 ### Added
 - Autorise le caractère $ en début de nom d'arguments JS
