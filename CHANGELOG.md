@@ -3,9 +3,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2020-08-30
+### Modified
+- [YAML] Pas d'espace autour des crochets de tableau
+
 ## 2020-05-14
 ### Modified
-- Autorise le nommage de variables JavaScript en mode CONSTANTE
+- [JS] Autorise le nommage de variables en mode CONSTANTE
 
 ## 2020-05-04
 ### Modified
@@ -13,24 +17,24 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## 2020-03-19
 ### Added
-- Autorise le caractère $ en début de nom de paramètre et variable en JS
-- Autorise les chiffres dans les règles de nommage en JS
+- [JS] Autorise le caractère $ en début de nom de paramètre et variable
+- [JS] Autorise les chiffres dans les règles de nommage
 
 ## 2020-02-28
 ### Added
-- Autorise le caractère $ en début de nom d'arguments JS
+- [JS] Autorise le caractère $ en début de nom d'arguments
 
 ### Fixed
-- Correction des restrictions de longueur pour le JS
+- [JS] Correction des restrictions de longueur
 
 ## 2020-02-20
 ### Fixed
-- Correction des restrictions de longueur pour le JS
+- [JS] Correction des restrictions de longueur
 
 ## 2020-02-19
 ### Added
-- Ajout du tri des propriétés CSS
-- Ajout des ; manquants à la fin des CSS
+- [CSS] Ajout du tri des propriétés
+- [CSS] Ajout des ; manquants en fin de ligne
 
 ### Changed
 - Retrait des restrictions de longueur de noms de classes / attributs / etc.
