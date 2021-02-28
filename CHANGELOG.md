@@ -3,6 +3,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2021-02-28
+### Modified
+- [TWIG] Indentation sur 2 espaces
+- [SQL] Modification des quelques règles de formattage sur la génération de schémas / tables
+
 ## 2020-11-20
 ### Modified
 - [HTML] Ne garde les espaces que dans les balises `<pre>`
