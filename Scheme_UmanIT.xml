@@ -1,149 +1,10 @@
 <code_scheme name="Scheme UmanIT" version="173">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <CssCodeStyleSettings>
     <option name="PROPERTIES_ORDER" value="clear, display, table-layout, flex, flex-basis, flex-direction, flex-flow, flex-grow, flex-shrink, flex-wrap, align-content, align-items, align-self, justify-content, order, float, position, top, left, bottom, right, margin, margin-bottom, margin-left, margin-right, margin-top, padding, padding-bottom, padding-left, padding-right, padding-top, nav-down, nav-index, nav-left, nav-right, nav-up, transform, transform-origin, vertical-align, width, height, max-height, max-width, min-height, min-width, z-index, animation, animation-delay, animation-direction, animation-duration, animation-iteration-count, animation-name, animation-play-state, animation-timing-function, background, background-attachment, background-clip, background-color, background-image, background-origin, background-position, background-position-x, background-position-y, background-repeat, background-size, border, border-bottom, border-bottom-color, border-bottom-left-radius, border-bottom-right-radius, border-bottom-style, border-bottom-width, border-collapse, border-color, border-image, border-image-outset, border-image-repeat, border-image-slice, border-image-source, border-image-width, border-left, border-left-color, border-left-style, border-left-width, border-radius, border-right, border-right-color, border-right-style, border-right-width, border-spacing, border-style, border-top, border-top-color, border-top-left-radius, border-top-right-radius, border-top-style, border-top-width, border-width, box-decoration-break, box-shadow, box-sizing, caption-side, clip, empty-cells, list-style, list-style-image, list-style-position, list-style-type, opacity, outline, outline-color, outline-offset, outline-style, outline-width, overflow, overflow-x, overflow-y, resize, transition, transition-delay, transition-duration, transition-property, transition-timing-function, visibility, zoom, color, content, counter-increment, counter-reset, cursor, font, font-family, font-size, font-size-adjust, font-stretch, font-style, font-variant, font-weight, hyphens, letter-spacing, line-height, pointer-events, quotes, tab-size, text-align, text-align-last, text-decoration, text-emphasis, text-emphasis-color, text-emphasis-position, text-emphasis-style, text-indent, text-justify, text-outline, text-overflow, text-overflow-ellipsis, text-overflow-mode, text-shadow, text-transform, text-wrap, user-select, white-space, word-break, word-spacing, word-wrap" />
     <option name="ENFORCE_QUOTES_ON_FORMAT" value="true" />
   </CssCodeStyleSettings>
-  <DB2CodeStyleSettings version="6">
-    <option name="USE_GENERAL_STYLE" value="false" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="CUSTOM_TYPE_CASE" value="3" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_ALIGN_AS" value="false" />
-    <option name="FROM_EL_WRAP" value="0" />
-    <option name="FROM_INDENT_JOIN" value="false" />
-    <option name="WHERE_EL_WRAP" value="0" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="ORDER_EL_WRAP" value="0" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="6">
-    <option name="USE_GENERAL_STYLE" value="false" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="CUSTOM_TYPE_CASE" value="3" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_ALIGN_AS" value="false" />
-    <option name="FROM_EL_WRAP" value="0" />
-    <option name="FROM_INDENT_JOIN" value="false" />
-    <option name="WHERE_EL_WRAP" value="0" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="ORDER_EL_WRAP" value="0" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </DerbyCodeStyleSettings>
-  <H2CodeStyleSettings version="6">
-    <option name="USE_GENERAL_STYLE" value="false" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="CUSTOM_TYPE_CASE" value="3" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_ALIGN_AS" value="false" />
-    <option name="FROM_EL_WRAP" value="0" />
-    <option name="FROM_INDENT_JOIN" value="false" />
-    <option name="WHERE_EL_WRAP" value="0" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="ORDER_EL_WRAP" value="0" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </H2CodeStyleSettings>
-  <H2CodeStyleSettings version="6">
-    <option name="USE_GENERAL_STYLE" value="false" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="CUSTOM_TYPE_CASE" value="3" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_ALIGN_AS" value="false" />
-    <option name="FROM_EL_WRAP" value="0" />
-    <option name="FROM_INDENT_JOIN" value="false" />
-    <option name="WHERE_EL_WRAP" value="0" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="ORDER_EL_WRAP" value="0" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="6">
-    <option name="USE_GENERAL_STYLE" value="false" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="CUSTOM_TYPE_CASE" value="3" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_ALIGN_AS" value="false" />
-    <option name="FROM_EL_WRAP" value="0" />
-    <option name="FROM_INDENT_JOIN" value="false" />
-    <option name="WHERE_EL_WRAP" value="0" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="ORDER_EL_WRAP" value="0" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </HSQLCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_TEXT_WRAP" value="0" />
@@ -163,93 +24,9 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
-  <MSSQLCodeStyleSettings version="6">
-    <option name="USE_GENERAL_STYLE" value="false" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="CUSTOM_TYPE_CASE" value="3" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_ALIGN_AS" value="false" />
-    <option name="FROM_EL_WRAP" value="0" />
-    <option name="FROM_INDENT_JOIN" value="false" />
-    <option name="WHERE_EL_WRAP" value="0" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="ORDER_EL_WRAP" value="0" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </MSSQLCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
-  <MySQLCodeStyleSettings version="6">
-    <option name="USE_GENERAL_STYLE" value="false" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="CUSTOM_TYPE_CASE" value="3" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_ALIGN_AS" value="false" />
-    <option name="FROM_EL_WRAP" value="0" />
-    <option name="FROM_INDENT_JOIN" value="false" />
-    <option name="WHERE_EL_WRAP" value="0" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="ORDER_EL_WRAP" value="0" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="6">
-    <option name="USE_GENERAL_STYLE" value="false" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="CUSTOM_TYPE_CASE" value="3" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_ALIGN_AS" value="false" />
-    <option name="FROM_EL_WRAP" value="0" />
-    <option name="FROM_INDENT_JOIN" value="false" />
-    <option name="WHERE_EL_WRAP" value="0" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="ORDER_EL_WRAP" value="0" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </OracleCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
@@ -259,73 +36,19 @@
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
+    <option name="BLANK_LINES_BETWEEN_IMPORTS" value="1" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="ELSE_IF_STYLE" value="COMBINE" />
     <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
     <option name="BLANK_LINES_BEFORE_RETURN_STATEMENT" value="1" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
-    <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="1" />
+    <option name="BLANK_LINES_AFTER_OPENING_TAG" value="1" />
+    <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="0" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+    <option name="NEW_LINE_AFTER_PHP_OPENING_TAG" value="true" />
     <option name="MULTILINE_CHAINED_CALLS_SEMICOLON_ON_NEW_LINE" value="true" />
   </PHPCodeStyleSettings>
-  <PostgresCodeStyleSettings version="6">
-    <option name="KEYWORD_CASE" value="2" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="CUSTOM_TYPE_CASE" value="3" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_ALIGN_AS" value="false" />
-    <option name="FROM_EL_WRAP" value="0" />
-    <option name="FROM_INDENT_JOIN" value="false" />
-    <option name="WHERE_EL_WRAP" value="0" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="ORDER_EL_WRAP" value="0" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-    <option name="USE_GENERIC_STYLE" value="true" />
-  </PostgresCodeStyleSettings>
-  <SQLiteCodeStyleSettings version="6">
-    <option name="USE_GENERAL_STYLE" value="false" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="CUSTOM_TYPE_CASE" value="3" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_ALIGN_AS" value="false" />
-    <option name="FROM_EL_WRAP" value="0" />
-    <option name="FROM_INDENT_JOIN" value="false" />
-    <option name="WHERE_EL_WRAP" value="0" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="ORDER_EL_WRAP" value="0" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </SQLiteCodeStyleSettings>
   <ScssCodeStyleSettings>
     <option name="PROPERTIES_ORDER" value="clear, display, table-layout, flex, flex-basis, flex-direction, flex-flow, flex-grow, flex-shrink, flex-wrap, align-content, align-items, align-self, justify-content, order, float, position, top, left, bottom, right, margin, margin-bottom, margin-left, margin-right, margin-top, padding, padding-bottom, padding-left, padding-right, padding-top, nav-down, nav-index, nav-left, nav-right, nav-up, transform, transform-origin, vertical-align, width, height, max-height, max-width, min-height, min-width, z-index, animation, animation-delay, animation-direction, animation-duration, animation-iteration-count, animation-name, animation-play-state, animation-timing-function, background, background-attachment, background-clip, background-color, background-image, background-origin, background-position, background-position-x, background-position-y, background-repeat, background-size, border, border-bottom, border-bottom-color, border-bottom-left-radius, border-bottom-right-radius, border-bottom-style, border-bottom-width, border-collapse, border-color, border-image, border-image-outset, border-image-repeat, border-image-slice, border-image-source, border-image-width, border-left, border-left-color, border-left-style, border-left-width, border-radius, border-right, border-right-color, border-right-style, border-right-width, border-spacing, border-style, border-top, border-top-color, border-top-left-radius, border-top-right-radius, border-top-style, border-top-width, border-width, box-decoration-break, box-shadow, box-sizing, caption-side, clip, empty-cells, list-style, list-style-image, list-style-position, list-style-type, opacity, outline, outline-color, outline-offset, outline-style, outline-width, overflow, overflow-x, overflow-y, resize, transition, transition-delay, transition-duration, transition-property, transition-timing-function, visibility, zoom, color, content, counter-increment, counter-reset, cursor, font, font-family, font-size, font-size-adjust, font-stretch, font-style, font-variant, font-weight, hyphens, letter-spacing, line-height, pointer-events, quotes, tab-size, text-align, text-align-last, text-decoration, text-emphasis, text-emphasis-color, text-emphasis-position, text-emphasis-style, text-indent, text-justify, text-outline, text-overflow, text-overflow-ellipsis, text-overflow-mode, text-shadow, text-transform, text-wrap, user-select, white-space, word-break, word-spacing, word-wrap" />
     <option name="ENFORCE_QUOTES_ON_FORMAT" value="true" />
@@ -387,52 +110,12 @@
     <option name="WRAP_VALUES_EXPRESSION" value="0" />
     <option name="WRAP_PARENTHESIZED_EXPRESSION_INSIDE_VALUES" value="0" />
   </SqlCodeStyleSettings>
-  <SybaseCodeStyleSettings version="6">
-    <option name="USE_GENERAL_STYLE" value="false" />
-    <option name="TYPE_CASE" value="3" />
-    <option name="CUSTOM_TYPE_CASE" value="3" />
-    <option name="ALIAS_CASE" value="4" />
-    <option name="SET_EL_WRAP" value="0" />
-    <option name="SET_EL_COMMA" value="0" />
-    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
-    <option name="WITH_EL_WRAP" value="0" />
-    <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
-    <option name="SELECT_ALIGN_AS" value="false" />
-    <option name="FROM_EL_WRAP" value="0" />
-    <option name="FROM_INDENT_JOIN" value="false" />
-    <option name="WHERE_EL_WRAP" value="0" />
-    <option name="WHERE_EL_BOUND" value="2" />
-    <option name="ORDER_EL_WRAP" value="0" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
-    <option name="POST_OPT_WRAP_1" value="true" />
-    <option name="IMP_DECLARE_EL_WRAP" value="1" />
-    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
-    <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
-    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
-    <option name="EXPR_CASE_THEN_WRAP" value="true" />
-    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
-  </SybaseCodeStyleSettings>
   <XML>
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </XML>
   <yaml>
     <option name="SEQUENCE_ON_NEW_LINE" value="true" />
   </yaml>
-  <codeStyleSettings language="DB2">
-    <option name="KEEP_LINE_BREAKS" value="false" />
-  </codeStyleSettings>
-  <codeStyleSettings language="Derby">
-    <option name="KEEP_LINE_BREAKS" value="false" />
-  </codeStyleSettings>
-  <codeStyleSettings language="H2">
-    <option name="KEEP_LINE_BREAKS" value="false" />
-  </codeStyleSettings>
-  <codeStyleSettings language="HSQLDB">
-    <option name="KEEP_LINE_BREAKS" value="false" />
-  </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -454,30 +137,34 @@
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
-  <codeStyleSettings language="MySQL">
-    <option name="KEEP_LINE_BREAKS" value="false" />
-  </codeStyleSettings>
-  <codeStyleSettings language="Oracle">
-    <option name="KEEP_LINE_BREAKS" value="false" />
-  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
+    <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
-    <option name="SPACE_AFTER_TYPE_CAST" value="true" />
+    <option name="CALL_PARAMETERS_WRAP" value="5" />
+    <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="EXTENDS_LIST_WRAP" value="5" />
     <option name="FOR_STATEMENT_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="FOR_STATEMENT_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="5" />
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
+    <option name="IF_BRACE_FORCE" value="3" />
+    <option name="DOWHILE_BRACE_FORCE" value="3" />
+    <option name="WHILE_BRACE_FORCE" value="3" />
+    <option name="FOR_BRACE_FORCE" value="3" />
     <arrangement>
       <groups>
         <group>
@@ -494,9 +181,6 @@
         </group>
       </groups>
     </arrangement>
-  </codeStyleSettings>
-  <codeStyleSettings language="PostgreSQL">
-    <option name="KEEP_LINE_BREAKS" value="false" />
   </codeStyleSettings>
   <codeStyleSettings language="SCSS">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
