@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2022-12-12
+
+### Modified
+
+- [CSS] Indent on 2 spaces
+
 ## 2022-01-14
 
 ### Modified
@@ -14,7 +20,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Modified
 
-- [PHP] PAssage sur la PSR-12
+- [PHP] Passage sur la PSR-12
 - Mise à jour globale par phpStorm sur sa dernière version
 
 ## 2021-02-28
