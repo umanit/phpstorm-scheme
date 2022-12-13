@@ -54,7 +54,6 @@
     <option name="ENFORCE_QUOTES_ON_FORMAT" value="true" />
   </ScssCodeStyleSettings>
   <SqlCodeStyleSettings version="6">
-    <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="3" />
     <option name="CUSTOM_TYPE_CASE" value="3" />
     <option name="ALIAS_CASE" value="4" />
