@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2024-12-05
+
+### Modified
+
+- [PHP] Mise à jour de diverses règles
+- [JS] Mise à jour règle nommage de variables
+
 ## 2022-12-13
 
 ### Modified
