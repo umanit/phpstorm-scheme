@@ -12,6 +12,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - [PHP] Ajout d’une virgule après le dernier argument d’un appel de fonction multilignes
 - [PHP] Ajout d’une virgule après le dernier argument d’un `use` de `closure` multilignes
 - [PHP] Ajout d’une virgule après le dernier argument d’un `match`
+- [JS] Mise à la ligne automatique des appels de méthodes chaînées trop longues
+- [JS] Remontée en warning des erreurs ESLint
+
+### Modified
+
+- [JS] Autorise les variables locales à commencer par `_` ou `#`
 
 ## 2024-12-05
 

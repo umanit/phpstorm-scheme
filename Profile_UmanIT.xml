@@ -4,6 +4,7 @@
   <inspection_tool class="BlockStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConfusingPlusesOrMinusesJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CssMissingSemicolon" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ForgottenDebugOutputInspection" enabled="true" level="ERROR" enabled_by_default="true">
     <option name="configuration">
       <list>
@@ -82,7 +83,7 @@
     <option name="m_maxLength" value="999" />
   </inspection_tool>
   <inspection_tool class="LocalVariableNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_regex" value="(\$?[a-z][A-Za-z\d]*|[A-Z\d_]*)" />
+    <option name="m_regex" value="([\$_#]?[a-z][A-Za-z\d]*|[A-Z\d_]*)" />
     <option name="m_minLength" value="0" />
     <option name="m_maxLength" value="999" />
   </inspection_tool>
