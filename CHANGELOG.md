@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2025-01-19
+
+### Added
+
+- [PHP] Ajout d’une virgule après le dernier argument d’une déclaration de fonction multilignes
+- [PHP] Ajout d’une virgule après le dernier argument d’un appel de fonction multilignes
+- [PHP] Ajout d’une virgule après le dernier argument d’un `use` de `closure` multilignes
+- [PHP] Ajout d’une virgule après le dernier argument d’un `match`
+
 ## 2024-12-05
 
 ### Modified

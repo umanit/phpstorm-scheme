@@ -32,6 +32,10 @@
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
+    <option name="COMMA_AFTER_LAST_PARAMETER" value="true" />
+    <option name="COMMA_AFTER_LAST_CLOSURE_USE_VAR" value="true" />
+    <option name="COMMA_AFTER_LAST_ARGUMENT" value="true" />
+    <option name="COMMA_AFTER_LAST_MATCH_ARM" value="true" />
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
@@ -52,7 +56,7 @@
     <option name="PROPERTIES_ORDER" value="clear, display, table-layout, flex, flex-basis, flex-direction, flex-flow, flex-grow, flex-shrink, flex-wrap, align-content, align-items, align-self, justify-content, order, float, position, top, left, bottom, right, margin, margin-bottom, margin-left, margin-right, margin-top, padding, padding-bottom, padding-left, padding-right, padding-top, nav-down, nav-index, nav-left, nav-right, nav-up, transform, transform-origin, vertical-align, width, height, max-height, max-width, min-height, min-width, z-index, animation, animation-delay, animation-direction, animation-duration, animation-iteration-count, animation-name, animation-play-state, animation-timing-function, background, background-attachment, background-clip, background-color, background-image, background-origin, background-position, background-position-x, background-position-y, background-repeat, background-size, border, border-bottom, border-bottom-color, border-bottom-left-radius, border-bottom-right-radius, border-bottom-style, border-bottom-width, border-collapse, border-color, border-image, border-image-outset, border-image-repeat, border-image-slice, border-image-source, border-image-width, border-left, border-left-color, border-left-style, border-left-width, border-radius, border-right, border-right-color, border-right-style, border-right-width, border-spacing, border-style, border-top, border-top-color, border-top-left-radius, border-top-right-radius, border-top-style, border-top-width, border-width, box-decoration-break, box-shadow, box-sizing, caption-side, clip, empty-cells, list-style, list-style-image, list-style-position, list-style-type, opacity, outline, outline-color, outline-offset, outline-style, outline-width, overflow, overflow-x, overflow-y, resize, transition, transition-delay, transition-duration, transition-property, transition-timing-function, visibility, zoom, color, content, counter-increment, counter-reset, cursor, font, font-family, font-size, font-size-adjust, font-stretch, font-style, font-variant, font-weight, hyphens, letter-spacing, line-height, pointer-events, quotes, tab-size, text-align, text-align-last, text-decoration, text-emphasis, text-emphasis-color, text-emphasis-position, text-emphasis-style, text-indent, text-justify, text-outline, text-overflow, text-overflow-ellipsis, text-overflow-mode, text-shadow, text-transform, text-wrap, user-select, white-space, word-break, word-spacing, word-wrap" />
     <option name="ENFORCE_QUOTES_ON_FORMAT" value="true" />
   </ScssCodeStyleSettings>
-  <SqlCodeStyleSettings version="6">
+  <SqlCodeStyleSettings version="7">
     <option name="TYPE_CASE" value="3" />
     <option name="CUSTOM_TYPE_CASE" value="3" />
     <option name="ALIAS_CASE" value="4" />
