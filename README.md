@@ -11,7 +11,7 @@
 Le dépôt contient plusieurs fichiers de configuration à importer dans PhpStorm :
 
 * `Scheme_UmanIT.xml` : Gère les règles de mises en forme du code
-* `Profile UmanIT.xml` : Gère les règles d'inspection du code
+* `Profile_UmanIT.xml` : Gère les règles d'inspection du code
 
 Ces configurations sont là afin que tout le monde respecte les mêmes normes de code. Cela ne veut pas pour autant dire
 qu'elles sont figées dans le marbre, elles peuvent très bien évoluer avec le temps.
@@ -29,7 +29,7 @@ Les différents fichiers posent les règles par défaut de l'IDE, mais elles peu
     * Sélectionner **Import Scheme** tout en bas
     * Choisir **IntelliJ IDEA code style XML**
     * Sélectionner le fichier **Scheme UmanIT.xml**
-2. Le fichier `Profile UmanIT.xml` s'importe dans **Settigns -> Editor -> Inspection**
+2. Le fichier `Profile_UmanIT.xml` s'importe dans **Settigns -> Editor -> Inspection**
     * En haut de la fenêtre, cliquer sur le bouton de menu à droite de la liste déroulante
     * Sélectionner **Import Profile...** tout en bas
     * Sélectionner le fichier **Profile UmanIT.xml**
