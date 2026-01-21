@@ -4,7 +4,14 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## 2025-01-19
+## 2026-01-21
+
+### Added
+
+- Désactivation de la détection de l’indentation automatique
+- [JS] Force la mise à la ligne des conditions sur une ligne
+
+## 2026-01-19
 
 ### Added
 
